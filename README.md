@@ -52,6 +52,7 @@ Recommendations_with_IBM.ipynb -  In this notebook, you will be putting your rec
 Read Recommendations_with_IBM.ipynb.
 
 ## Licensing <a name="licensing"></a>
+See [License file](https://github.com/ricamos/RecommendationsWithIBM/blob/master/LICENSE)
 
 ## Authors <a name="author"></a>
 Ricardo Coelho and Udacity
